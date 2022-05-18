@@ -2,4 +2,10 @@
   <option name="RIGHT_MARGIN" value="100" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="100" />
+  <codeStyleSettings language="Groovy">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
