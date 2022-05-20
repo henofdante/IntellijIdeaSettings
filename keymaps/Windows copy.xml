@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="Spring.Beans.Generate.Testing.Dependency.Action">
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="alt a" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
