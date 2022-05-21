@@ -1,5 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>Retryable.maxAttemptsExpression (org.springframework.retry.annotation)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("maxAttemptsExpression").withParameters().definedInClass("org.springframework.retry.annotation.Retryable")]]></place>
+    </injection>
     <injection language="MySQL" injector-id="java">
       <display-name>Update.value (org.apache.ibatis.annotations)</display-name>
       <single-file value="false" />
