@@ -1,5 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="MongoDB-JSON-Query" injector-id="java">
+      <display-name>CompoundIndex.def (org.springframework.data.mongodb.core.index)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("def").withParameters().definedInClass("org.springframework.data.mongodb.core.index.CompoundIndex")]]></place>
+    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Retryable.maxAttemptsExpression (org.springframework.retry.annotation)</display-name>
       <single-file value="false" />
