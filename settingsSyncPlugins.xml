@@ -112,6 +112,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.haulmont.jpab">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.guice">
           <value>
             <PluginData>
@@ -179,6 +192,17 @@
           </value>
         </entry>
         <entry key="com.werfad">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="de.netnexus.camelcaseplugin">
           <value>
             <PluginData>
               <option name="dependencies">
